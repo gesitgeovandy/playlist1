@@ -207,6 +207,103 @@
             "ImageId": "",
             "SoundId": "rbxassetid://106924783714836",
             "Speed": 0.5
+        },
+
+        {
+            "Title": "JB SOMEBODY TO LOVE",
+            "Artist": "Qitoo",
+            "Genre": "RnB",
+            "ImageId": "",
+            "SoundId": "rbxassetid://110146381919596",
+            "Speed": 0.5
+        },
+        {
+            "Title": "JB RUNAWAY LOVE",
+            "Artist": "Qitoo",
+            "Genre": "RnB",
+            "ImageId": "",
+            "SoundId": "rbxassetid://84035907994888",
+            "Speed": 0.5
+        },
+        {
+            "Title": "JB FAVORITE GIRL",
+            "Artist": "Qitoo",
+            "Genre": "RnB",
+            "ImageId": "",
+            "SoundId": "rbxassetid://71291290169504",
+            "Speed": 0.5
+        },
+        {
+            "Title": "JB THAT SHOULD BE ME",
+            "Artist": "Qitoo",
+            "Genre": "RnB",
+            "ImageId": "",
+            "SoundId": "rbxassetid://98984673922286",
+            "Speed": 0.5
+        },
+        {
+            "Title": "JB FIRST DANCE",
+            "Artist": "Qitoo",
+            "Genre": "RnB",
+            "ImageId": "",
+            "SoundId": "rbxassetid://85228815334801",
+            "Speed": 0.5
+        },
+        {
+            "Title": "JB U SMILE",
+            "Artist": "Qitoo",
+            "Genre": "RnB",
+            "ImageId": "",
+            "SoundId": "rbxassetid://124710560567271",
+            "Speed": 0.5
+        },
+        {
+            "Title": "JB ONE TIME",
+            "Artist": "Qitoo",
+            "Genre": "RnB",
+            "ImageId": "",
+            "SoundId": "rbxassetid://137050123363032",
+            "Speed": 0.5
+        },
+        {
+            "Title": "JB ONE LESS LONELY GIRL",
+            "Artist": "Qitoo",
+            "Genre": "RnB",
+            "ImageId": "",
+            "SoundId": "rbxassetid://89703696558662",
+            "Speed": 0.5
+        },
+        {
+            "Title": "JB NEVER LET YOU GO",
+            "Artist": "Qitoo",
+            "Genre": "RnB",
+            "ImageId": "",
+            "SoundId": "rbxassetid://137193663848076",
+            "Speed": 0.5
+        },
+        {
+            "Title": "JB LOVE ME",
+            "Artist": "Qitoo",
+            "Genre": "RnB",
+            "ImageId": "",
+            "SoundId": "rbxassetid://115768549196936",
+            "Speed": 0.5
+        },
+        {
+            "Title": "JB DOWN TO EARTH",
+            "Artist": "Qitoo",
+            "Genre": "RnB",
+            "ImageId": "",
+            "SoundId": "rbxassetid://92926402978185",
+            "Speed": 0.5
+        },
+        {
+            "Title": "JB BEAUTY AND A BEAT",
+            "Artist": "Qitoo",
+            "Genre": "RnB",
+            "ImageId": "",
+            "SoundId": "rbxassetid://140707547544065",
+            "Speed": 0.5
         }
     ]
 }
