@@ -1,804 +1,732 @@
 {
-    "Songs": [
-        {
-            "Title": "Remix Plat KT - You Don't Even Know Me",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://93407139349746",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - Peri Cintaku",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://82924877633162",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - Juragan Emphang",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://97139385720954",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - Jangan Tunggu Lama Lama",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://115444198620917",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - Tinggal Kenangan",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://91420912558064",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - Dracin X Goyang Dumang",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://94454136097126",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - Cinta Tak Direstui",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://84528830156536",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - Andaiku Tau",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://131755000666443",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - 14 Hari",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://107878030694405",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - Sembilu",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://107925203725528",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - Jangan Menangis Untukku",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://120707324830175",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - Sama Sama Suka",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://126078965401588",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - Antara Ada Dan Tiada",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://101862253992341",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - Yali Yali",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://107892148188377",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - Waktu Tamasya",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://107194139031488",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - RIP Love x You Don't Even Know Me",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://131977480877352",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - Hey Ladies",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://87096518895442",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - Dulu Aku Kau Sayang-Sayang",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://88810862470613",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - Sayang 2",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://110861858854319",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - Ga Jaman Punya Pacar Satu Aja",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://91003010057388",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - Chica Loca",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://108841929960908",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - CINTAKU BUKAN DI ATAS",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://126668975639892",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix Bootleg - CHICA LOCA",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://77847649189815",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - ASMARA KERINDUAN",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://120197181188718",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix Thai - Running Away",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix Thai",
-            "ImageId": "",
-            "SoundId": "rbxassetid://114490629127202",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix Thai - Let's it go",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix Thai",
-            "ImageId": "",
-            "SoundId": "rbxassetid://80418868513154",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix Thai - Jika kau bertanya aku mencintaimu",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix Thai",
-            "ImageId": "",
-            "SoundId": "rbxassetid://115024784708048",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix Thai - Take Me Away",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix Thai",
-            "ImageId": "",
-            "SoundId": "rbxassetid://85690124759862",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - GELORA ASMARA",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://84420939668471",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - APECI APECU",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://112216617802203",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - WUASEKK!",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://74413724417990",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - Jodohmu Aku",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://73992848574644",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - WENGGO WENGGO",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://115436509617328",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - Stecu Halal",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://137179152490875",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - Burung Mellenk",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://110624583896177",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - SAAT KAU PERGI",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://96960263501966",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - Dalane Njengat Njengat",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://104403370699243",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - An Angle Love x Fwban",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://124448715380164",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - CURI CURI HATI",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://73861379078779",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - Cidro Ning",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://127689965527225",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - STEL KENDO X RUTINITAS RADONG",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://76732322449080",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - Sigar JonoJoni",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://118856418999629",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - Oktober O nya apa",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://103431524413545",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - Teman Rasa Pacar",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://121131286894738",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - Ora Urus",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://125210325255720",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - Punk Rock Jalanan",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://133518814125131",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - Die On This Hill",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://126749792080316",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - Somebody Pleasure x Hingga Tua Bersama",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://140265014809044",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - Tunggal Eka",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://92037577652553",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix - Bebende",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix",
-            "ImageId": "",
-            "SoundId": "rbxassetid://75580454892391",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix Koplo - I Love U 3000",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://121581029654744",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix Koplo - Penjaga Hati",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://100117043861830",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix Koplo - Bukan Seleramu",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://129770361982091",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix Koplo - 8 Letters",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://120025019805986",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix Koplo - Wahai Sahabatku",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://76705537747226",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix Koplo - DOA",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://104558319889274",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix Koplo - Midnight",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://127602901920545",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix Koplo - Mysterious Girl",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://132411607971424",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix Koplo - Kebutuhan Hati",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://77969080688493",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix Koplo - Die On This Hill",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://75650624762219",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix Koplo - Ophelia X Outside",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://86168976303541",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix Koplo - Kusuma Wijaya",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://76539366679398",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix Koplo - Kawitaning Sinawang x Bojo Simpenan",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://101999271877157",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix Koplo - Memori Berkasih",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://110057049428093",
-            "Speed": 1
-        },
-        {
-            "Title": "Remix Koplo - Love Me Not",
-            "Artist": "AMBYARYIP",
-            "Genre": "Remix Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://84909610794412",
-            "Speed": 1
-        },
-        {
-            "Title": "BKB - TERTAWAN HATI",
-            "Artist": "AMBYARYIP",
-            "Genre": "Breakbeat",
-            "ImageId": "",
-            "SoundId": "rbxassetid://89583495562140",
-            "Speed": 1
-        },
-        {
-            "Title": "BKB - Broken Angel",
-            "Artist": "AMBYARYIP",
-            "Genre": "Breakbeat",
-            "ImageId": "",
-            "SoundId": "rbxassetid://129050654768406",
-            "Speed": 1
-        },
-        {
-            "Title": "BKB - Tunggal Eka",
-            "Artist": "AMBYARYIP",
-            "Genre": "Breakbeat",
-            "ImageId": "",
-            "SoundId": "rbxassetid://101854724987938",
-            "Speed": 1
-        },
-        {
-            "Title": "Funkot - LDR",
-            "Artist": "AMBYARYIP",
-            "Genre": "Funkot",
-            "ImageId": "",
-            "SoundId": "rbxassetid://138905249903998",
-            "Speed": 1
-        },
-        {
-            "Title": "Bootleg Koplo - Janji Setia",
-            "Artist": "AMBYARYIP",
-            "Genre": "Bootleg Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://136376694392623",
-            "Speed": 1
-        },
-        {
-            "Title": "Bootleg Koplo - Siapkah Kau Tuk Jatuh Cinta Lagi",
-            "Artist": "AMBYARYIP",
-            "Genre": "Bootleg Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://127235628814254",
-            "Speed": 1
-        },
-        {
-            "Title": "Bootleg Koplo - Merasa Indah",
-            "Artist": "AMBYARYIP",
-            "Genre": "Bootleg Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://129322089927740",
-            "Speed": 1
-        },
-        {
-            "Title": "Bootleg Koplo - Salah",
-            "Artist": "AMBYARYIP",
-            "Genre": "Bootleg Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://91421531534354",
-            "Speed": 1
-        },
-        {
-            "Title": "Bootleg Koplo - Melawan Restu",
-            "Artist": "AMBYARYIP",
-            "Genre": "Bootleg Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://85066088220083",
-            "Speed": 1
-        },
-        {
-            "Title": "Bootleg Koplo - Lampu Kuning",
-            "Artist": "AMBYARYIP",
-            "Genre": "Bootleg Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://86643415571214",
-            "Speed": 1
-        },
-        {
-            "Title": "Bootleg Koplo - Harus Terpisah",
-            "Artist": "AMBYARYIP",
-            "Genre": "Bootleg Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://130156070295847",
-            "Speed": 1
-        },
-        {
-            "Title": "Bootleg Koplo - Kamu",
-            "Artist": "AMBYARYIP",
-            "Genre": "Bootleg Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://74937563917885",
-            "Speed": 1
-        },
-        {
-            "Title": "Bootleg Koplo - I Wanna Be Yours",
-            "Artist": "AMBYARYIP",
-            "Genre": "Bootleg Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://105315930423017",
-            "Speed": 1
-        },
-        {
-            "Title": "Bootleg Koplo - Firasat",
-            "Artist": "AMBYARYIP",
-            "Genre": "Bootleg Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://101066847680548",
-            "Speed": 1
-        },
-        {
-            "Title": "Bootleg Koplo - Dirimu Yang Dahulu",
-            "Artist": "AMBYARYIP",
-            "Genre": "Bootleg Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://108411657821523",
-            "Speed": 1
-        },
-        {
-            "Title": "Bootleg Koplo - Cintanya Aku",
-            "Artist": "AMBYARYIP",
-            "Genre": "Bootleg Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://124274947334262",
-            "Speed": 1
-        },
-        {
-            "Title": "Bootleg Koplo - Saturn",
-            "Artist": "AMBYARYIP",
-            "Genre": "Bootleg Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://133465407982709",
-            "Speed": 1
-        },
-        {
-            "Title": "Bootleg Koplo - Satu Bulan",
-            "Artist": "AMBYARYIP",
-            "Genre": "Bootleg Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://113276531063635",
-            "Speed": 1
-        },
-        {
-            "Title": "Bootleg Koplo - Risalah Hati",
-            "Artist": "AMBYARYIP",
-            "Genre": "Bootleg Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://109325804379173",
-            "Speed": 1
-        },
-        {
-            "Title": "Bootleg Koplo - Menyesal",
-            "Artist": "AMBYARYIP",
-            "Genre": "Bootleg Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://115149101006203",
-            "Speed": 1
-        },
-        {
-            "Title": "Bootleg Koplo - Semusim",
-            "Artist": "AMBYARYIP",
-            "Genre": "Bootleg Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://123744833857586",
-            "Speed": 1
-        },
-        {
-            "Title": "Bootleg Koplo - When I Was Your Man",
-            "Artist": "AMBYARYIP",
-            "Genre": "Bootleg Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://85319642387455",
-            "Speed": 1
-        },
-        {
-            "Title": "Bootleg Koplo - Rindu Dalam Hati",
-            "Artist": "AMBYARYIP",
-            "Genre": "Bootleg Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://137470058729607",
-            "Speed": 1
-        },
-        {
-            "Title": "Bootleg Koplo - Mati Matian",
-            "Artist": "AMBYARYIP",
-            "Genre": "Bootleg Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://135868216097874",
-            "Speed": 1
-        },
-        {
-            "Title": "Bootleg Koplo - Maafkan Aku",
-            "Artist": "AMBYARYIP",
-            "Genre": "Bootleg Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://114554511228923",
-            "Speed": 1
-        },
-        {
-            "Title": "Bootleg Koplo - Jiwa Yang Bersedih",
-            "Artist": "AMBYARYIP",
-            "Genre": "Bootleg Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://134085094691080",
-            "Speed": 1
-        },
-        {
-            "Title": "Bootleg Koplo - End Of The World",
-            "Artist": "AMBYARYIP",
-            "Genre": "Bootleg Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://117767466267463",
-            "Speed": 1
-        },
-        {
-            "Title": "Bootleg Koplo - Masing Masing",
-            "Artist": "AMBYARYIP",
-            "Genre": "Bootleg Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://104010479496680",
-            "Speed": 1
-        },
-        {
-            "Title": "Bootleg Koplo - Ku Ingin Pisah",
-            "Artist": "AMBYARYIP",
-            "Genre": "Bootleg Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://126817687426145",
-            "Speed": 1
-        },
-        {
-            "Title": "Bootleg Koplo - Hilang Tanpa Bilang",
-            "Artist": "AMBYARYIP",
-            "Genre": "Bootleg Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://101162357890567",
-            "Speed": 1
-        },
-        {
-            "Title": "Bootleg Koplo - Disarankan Di Bandung",
-            "Artist": "AMBYARYIP",
-            "Genre": "Bootleg Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://124655424093480",
-            "Speed": 1
-        },
-        {
-            "Title": "Bootleg Koplo - Here With Me",
-            "Artist": "AMBYARYIP",
-            "Genre": "Bootleg Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://106144865131811",
-            "Speed": 1
-        },
-        {
-            "Title": "Bootleg Koplo - Dengan Caraku",
-            "Artist": "AMBYARYIP",
-            "Genre": "Bootleg Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://97640650386902",
-            "Speed": 1
-        },
-        {
-            "Title": "Bootleg Koplo - Akhir Tak Bahagia",
-            "Artist": "AMBYARYIP",
-            "Genre": "Bootleg Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://106956114645044",
-            "Speed": 1
-        },
-        {
-            "Title": "Bootleg Koplo - Ada Apa Denganmu",
-            "Artist": "AMBYARYIP",
-            "Genre": "Bootleg Koplo",
-            "ImageId": "",
-            "SoundId": "rbxassetid://98182194610623",
-            "Speed": 1
-        }
-    ]
+  "Songs": [
+    {
+      "Title": "Die For You",
+      "Artist": "JALUR LANGIT EDM",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://75131406367649",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Stuck With U",
+      "Artist": "JALUR LANGIT EDM",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://122056565700658",
+      "Speed": 0.5
+    },
+    {
+      "Title": "All My Love",
+      "Artist": "JALUR LANGIT EDM",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://99435341263445",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Thank U Next",
+      "Artist": "JALUR LANGIT EDM",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://128992846177845",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Hearbreak Anniv",
+      "Artist": "JALUR LANGIT EDM",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://129823845608713",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Lovely",
+      "Artist": "JALUR LANGIT EDM",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://135345891783373",
+      "Speed": 0.5
+    },
+    {
+      "Title": "When The Party's Over",
+      "Artist": "JALUR LANGIT EDM",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://124328131011653",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Headrush",
+      "Artist": "JALUR LANGIT EDM",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://95818349717188",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Take Me Home",
+      "Artist": "JALUR LANGIT EDM",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://110406391407939",
+      "Speed": 0.5
+    },
+    {
+      "Title": "A Different Way",
+      "Artist": "JALUR LANGIT EDM",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://140366195520489",
+      "Speed": 0.5
+    },
+    {
+      "Title": "After Hour",
+      "Artist": "JALUR LANGIT EDM",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://130945296864947",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Middle of the Night",
+      "Artist": "JALUR LANGIT EDM",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://109675566826866",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Greenlight",
+      "Artist": "JALUR LANGIT EDM",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://90272801981403",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Cold Water",
+      "Artist": "JALUR LANGIT EDM",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://98237383591337",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Both Of Us",
+      "Artist": "JALUR LANGIT EDM",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://110062903114699",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Angel Numbers",
+      "Artist": "JALUR LANGIT EDM",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://74444760809265",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Next To You",
+      "Artist": "JALUR LANGIT EDM",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://107654693561264",
+      "Speed": 0.5
+    },
+    {
+      "Title": "I Like Me Better",
+      "Artist": "JALUR LANGIT EDM",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://91715691719592",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Just For A Moment",
+      "Artist": "JALUR LANGIT EDM",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://91965132162324",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Sailor Song",
+      "Artist": "JALUR LANGIT EDM",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://133074958615967",
+      "Speed": 0.5
+    },
+    {
+      "Title": "The Fate of Ophelia",
+      "Artist": "JALUR LANGIT EDM",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://89772131882506",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Without Me",
+      "Artist": "JALUR LANGIT EDM",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://96441684055049",
+      "Speed": 0.5
+    },
+    {
+      "Title": "thinkin bout you",
+      "Artist": "JALUR LANGIT EDM",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://126335635340792",
+      "Speed": 0.5
+    },
+    {
+      "Title": "With You",
+      "Artist": "JALUR LANGIT EDM",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://87010510150816",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Secret Love Song",
+      "Artist": "JALUR LANGIT EDM",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://136836417242750",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Wonderwall",
+      "Artist": "OASIS",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://127045088637508",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Stop Crying Your Heart",
+      "Artist": "OASIS",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://115709895167705",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Stand By Me",
+      "Artist": "OASIS",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://70913412886163",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Dont Look Back In Anger",
+      "Artist": "OASIS",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://111913203024751",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Dont Go Away",
+      "Artist": "OASIS",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://84138704779945",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Somebody To Love",
+      "Artist": "JB",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://110146381919596",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Runaway Love",
+      "Artist": "JB",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://84035907994888",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Favorite Girl",
+      "Artist": "JB",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://71291290169504",
+      "Speed": 0.5
+    },
+    {
+      "Title": "That Should Be Me",
+      "Artist": "JB",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://98984673922286",
+      "Speed": 0.5
+    },
+    {
+      "Title": "First Dance",
+      "Artist": "JB",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://85228815334801",
+      "Speed": 0.5
+    },
+    {
+      "Title": "U Smile",
+      "Artist": "JB",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://124710560567271",
+      "Speed": 0.5
+    },
+    {
+      "Title": "One Time",
+      "Artist": "JB",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://137050123363032",
+      "Speed": 0.5
+    },
+    {
+      "Title": "One Less Lonely Girl",
+      "Artist": "JB",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://89703696558662",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Never Let You Go",
+      "Artist": "JB",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://137193663848076",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Love Me",
+      "Artist": "JB",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://115768549196936",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Down To Earth",
+      "Artist": "JB",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://92926402978185",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Beauty And A Beat",
+      "Artist": "JB",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://140707547544065",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Let Me Love You",
+      "Artist": "JB",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://71737161517156",
+      "Speed": 0.5
+    },
+    {
+      "Title": "When I Was Your Man",
+      "Artist": "BRUNO MARS",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://72771047169261",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Just The Way You Are",
+      "Artist": "BRUNO MARS",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://82389089213028",
+      "Speed": 0.5
+    },
+    {
+      "Title": "It Will Rain",
+      "Artist": "BRUNO MARS",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://83592119788922",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Risk It All X Versace On The Floor",
+      "Artist": "BRUNO MARS",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://96521488934485",
+      "Speed": 0.5
+    },
+    {
+      "Title": "One More Night",
+      "Artist": "MAROON 5",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://98126682534148",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Maps",
+      "Artist": "MAROON 5",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://101133420450932",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Animals",
+      "Artist": "MAROON 5",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://115168403797385",
+      "Speed": 0.5
+    },
+    {
+      "Title": "She Will Be Loved",
+      "Artist": "MAROON 5",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://73977271698049",
+      "Speed": 0.5
+    },
+    {
+      "Title": "The Scientist",
+      "Artist": "COLDPLAY",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://122925347270701",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Fix You",
+      "Artist": "COLDPLAY",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://125030905017641",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Clocks",
+      "Artist": "COLDPLAY",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://128456413990985",
+      "Speed": 0.5
+    },
+    {
+      "Title": "All I Ask",
+      "Artist": "ADELLE",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://117038885554815",
+      "Speed": 0.5
+    },
+    {
+      "Title": "When We Were Young",
+      "Artist": "ADELLE",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://127974554474033",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Easy On Me x Exile",
+      "Artist": "ADELLE",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://85651994540944",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Someone Like You",
+      "Artist": "ADELLE",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://108295323618736",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Steal My Girl",
+      "Artist": "ONE DIRECTION",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://97261841984545",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Where We Are",
+      "Artist": "ONE DIRECTION",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://124487753546907",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Night Changes",
+      "Artist": "ONE DIRECTION",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://108390548229105",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Dejavu EDM",
+      "Artist": "Olivia Rodrigo",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://134050742457947",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Traitor EDM",
+      "Artist": "Olivia Rodrigo",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://87727138550926",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Driver License EDM",
+      "Artist": "Olivia Rodrigo",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://118607518287227",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Unconditionally EDM",
+      "Artist": "Katy Perry",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://98097623986046",
+      "Speed": 0.5
+    },
+    {
+      "Title": "The One That Got Away UKG",
+      "Artist": "Katy Perry",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://83820033723602",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Take A Change With Me",
+      "Artist": "Niki",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://86700755413234",
+      "Speed": 0.5
+    },
+    {
+      "Title": "La La Lost You Amapiano",
+      "Artist": "Niki",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://99210624501938",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Die On This Hill",
+      "Artist": "SIENNA",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://130260626102619",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Treat You Better",
+      "Artist": "SHAWN MENDES",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://136803413562514",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Sign Of The Times",
+      "Artist": "HARRY",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://131902976452755",
+      "Speed": 0.5
+    },
+    {
+      "Title": "I Wanna Be Yours",
+      "Artist": "ARTIC MONKEYS",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://110620794138062",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Back To Black",
+      "Artist": "AMY",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://110980713107109",
+      "Speed": 0.5
+    },
+    {
+      "Title": "The Winner Takes It All",
+      "Artist": "ABBA",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://107108844288796",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Anything You Want Amapiano",
+      "Artist": "Reality Club",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://112697289416472",
+      "Speed": 0.5
+    },
+    {
+      "Title": "I Love U But Im Letting Go",
+      "Artist": "Pamungkas",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://110878824901018",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Ours To Keep EDM",
+      "Artist": "Kendis",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://125624827323639",
+      "Speed": 0.5
+    },
+    {
+      "Title": "All I Want",
+      "Artist": "KODALINE",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://76354259419394",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Iris",
+      "Artist": "GOO GOO DOLS",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://96380360811030",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Kill Bill",
+      "Artist": "SZA",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://117334319343545",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Shirt",
+      "Artist": "SZA",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://125751897056174",
+      "Speed": 0.5
+    },
+    {
+      "Title": "All The Stars",
+      "Artist": "SZA",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://115243108934677",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Snooze",
+      "Artist": "SZA FT JUSTIN BEIBER",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://90685966510985",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Saturn",
+      "Artist": "SZA",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://114083753823872",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Good Days",
+      "Artist": "SZA",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://88977638498408",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Open Arms",
+      "Artist": "SZA",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://99876348037335",
+      "Speed": 0.5
+    },
+    {
+      "Title": "I Hate U",
+      "Artist": "SZA",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://86894347158395",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Hit Different",
+      "Artist": "SZA",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://108248594038695",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Folded",
+      "Artist": "SZA",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://106366718342805",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Blind",
+      "Artist": "SZA",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://74106261833513",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Broken Clocks",
+      "Artist": "SZA",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://112272031429165",
+      "Speed": 0.5
+    }
+  ]
 }
