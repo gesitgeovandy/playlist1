@@ -1,0 +1,93 @@
+{
+  "Songs": [
+    {
+      "Title": "Die For You",
+      "Artist": "JALUR LANGIT EDM",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://75131406367649",
+      "Speed": 0.5
+    },
+    {
+      "Title": "Broken Clocks",
+      "Artist": "SZA",
+      "Genre": "EDM",
+      "ImageId": "",
+      "SoundId": "rbxassetid://112272031429165",
+      "Speed": 0.5
+    },
+    {
+      "Title": "PANDA 1",
+      "Artist": "DJ PANDA",
+      "Genre": "BKB/BOUNCE",
+      "ImageId": "",
+      "SoundId": "rbxassetid://114863600196793",
+      "Speed": 0.5
+    },
+    {
+      "Title": "PANDA 2",
+      "Artist": "DJ PANDA",
+      "Genre": "BKB/BOUNCE",
+      "ImageId": "",
+      "SoundId": "rbxassetid://124512198076247",
+      "Speed": 0.5
+    },
+    {
+      "Title": "PANDA 3",
+      "Artist": "DJ PANDA",
+      "Genre": "BKB/BOUNCE",
+      "ImageId": "",
+      "SoundId": "rbxassetid://129337979011388",
+      "Speed": 0.5
+    },
+    {
+      "Title": "PANDA 4",
+      "Artist": "DJ PANDA",
+      "Genre": "BKB/BOUNCE",
+      "ImageId": "",
+      "SoundId": "rbxassetid://130979101080817",
+      "Speed": 0.5
+    },
+    {
+      "Title": "PANDA 5",
+      "Artist": "DJ PANDA",
+      "Genre": "BKB/BOUNCE",
+      "ImageId": "",
+      "SoundId": "rbxassetid://117861465838781",
+      "Speed": 0.5
+    },
+    {
+      "Title": "PANDA 6",
+      "Artist": "DJ PANDA",
+      "Genre": "BKB/BOUNCE",
+      "ImageId": "",
+      "SoundId": "rbxassetid://71061003537534",
+      "Speed": 0.5
+    },
+        {
+      "Title": "JAY77 1",
+      "Artist": "JAY77",
+      "Genre": "BKB/BOUNCE",
+      "ImageId": "",
+      "SoundId": "rbxassetid://89250364994707",
+      "Speed": 0.5
+    },
+        {
+      "Title": "JAY77 2",
+      "Artist": "JAY77",
+      "Genre": "BKB/BOUNCE",
+      "ImageId": "",
+      "SoundId": "rbxassetid://136183089140200 ",
+      "Speed": 0.5
+    },
+    {
+      "Title": "PANDA 7",
+      "Artist": "DJ PANDA",
+      "Genre": "BKB/BOUNCE",
+      "ImageId": "",
+      "SoundId": "rbxassetid://110529358730864",
+      "Speed": 0.5
+    }
+    
+  ]
+}
